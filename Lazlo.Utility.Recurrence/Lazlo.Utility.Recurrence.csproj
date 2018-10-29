@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Jack Bond, Michael Pinkus</Authors>
+    <Company>Lazlo 326 Llc</Company>
+    <Copyright>2015-2018 Lazlo 326 Llc</Copyright>
+    <PackageTags>Lazlo, Lottery</PackageTags>
+    <PackageReleaseNotes>This is a .netstandard build of https://github.com/EWSoftware/PDI/tree/master/Source/EWSPDI</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
